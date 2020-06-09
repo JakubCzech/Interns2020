@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout<<"Test";
+    std::cout<<"Test łączności";
     return 0;
 }
