@@ -42,3 +42,6 @@ endif()
 SET(DEMO_SOURCES ./main.cpp)
 ADD_EXECUTABLE(eigenDemo ${DEMO_SOURCES})
 #TARGET_LINK_LIBRARIES(eigenDemo) Eigen is the C++ template library and we don't have to link against Eigen
+
+
+
