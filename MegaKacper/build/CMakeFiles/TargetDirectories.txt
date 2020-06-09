@@ -1,0 +1,3 @@
+/home/kaluhi/GitHub/Interns2020/MegaKacper/build/CMakeFiles/rebuild_cache.dir
+/home/kaluhi/GitHub/Interns2020/MegaKacper/build/CMakeFiles/edit_cache.dir
+/home/kaluhi/GitHub/Interns2020/MegaKacper/build/CMakeFiles/eigenDemo.dir

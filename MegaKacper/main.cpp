@@ -6,7 +6,7 @@
  */
 
 #include <iostream>
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 using namespace std;
 using namespace Eigen;
@@ -33,7 +33,8 @@ int main()
         Vector3d v(1,2,3);
         Vector3d w(1,0,0);
         std::cout << "-v + w - v =\n" << -v + w - v << std::endl;
-
+	std::cout << "Random Matrix" << std::endl;
+	
 
         getchar();
     }
