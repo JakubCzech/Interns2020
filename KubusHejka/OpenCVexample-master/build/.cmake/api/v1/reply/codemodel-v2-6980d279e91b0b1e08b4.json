@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/RELEASE",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenCVexample",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "openCVexample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-openCVexample-/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/RELEASE-7bf22210711ff250b729.json",
+					"name" : "openCVexample",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build",
+		"source" : "/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

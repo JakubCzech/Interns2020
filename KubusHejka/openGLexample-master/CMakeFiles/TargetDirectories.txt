@@ -1,0 +1,7 @@
+/home/jakub/Praktyki/Interns2020/KubusHejka/openGLexample-master/CMakeFiles/install/strip.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/openGLexample-master/CMakeFiles/install/local.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/openGLexample-master/CMakeFiles/install.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/openGLexample-master/CMakeFiles/list_install_components.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/openGLexample-master/CMakeFiles/rebuild_cache.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/openGLexample-master/CMakeFiles/edit_cache.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/openGLexample-master/CMakeFiles/openglDemo.dir

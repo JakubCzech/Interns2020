@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/3rdParty/tinyXML/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdarg.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cstdarg
+-
+android/log.h
+-
+assert.h
+-
+
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/main.cpp
+3rdParty/tinyXML/tinyxml2.h
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/3rdParty/tinyXML/tinyxml2.h
+iostream
+-
+memory
+-
+

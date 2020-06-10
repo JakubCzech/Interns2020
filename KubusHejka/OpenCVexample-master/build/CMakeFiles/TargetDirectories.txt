@@ -1,0 +1,7 @@
+/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/CMakeFiles/install/strip.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/CMakeFiles/install/local.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/CMakeFiles/edit_cache.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/CMakeFiles/install.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/CMakeFiles/list_install_components.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/CMakeFiles/rebuild_cache.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/OpenCVexample-master/build/CMakeFiles/openCVexample.dir

@@ -2,5 +2,5 @@
 <Robot>
     <type>MessorII</type>
     <config>MessorII/MessorII.xml</config>
-    <parameters legsNo="6" mass="3.2"/>
+    <parameters legsNo="6" mass="5"/>
 </Robot>

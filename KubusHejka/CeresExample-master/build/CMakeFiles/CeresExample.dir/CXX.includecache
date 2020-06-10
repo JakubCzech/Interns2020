@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakub/Praktyki/Interns2020/KubusHejka/CeresExample-master/main.cpp
+ceres/ceres.h
+-
+iostream
+-
+memory
+-
+

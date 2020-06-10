@@ -1,0 +1,8 @@
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/install/strip.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/install/local.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/install.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/list_install_components.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/rebuild_cache.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/edit_cache.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/tinyXML2example.dir
+/home/jakub/Praktyki/Interns2020/KubusHejka/tinyXMLexample-master/CMakeFiles/tinyxml2.dir

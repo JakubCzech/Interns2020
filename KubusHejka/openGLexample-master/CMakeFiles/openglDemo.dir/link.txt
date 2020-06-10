@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++14 -g  -rdynamic CMakeFiles/openglDemo.dir/main.cpp.o  -o build/bin/openglDemo  -lGL -lGLU -lGLEW -lglfw 
